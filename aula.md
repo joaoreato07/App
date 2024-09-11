@@ -58,3 +58,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
   ## Estrtura de repetição
 
   [x] while
+
+  # condicionais
+
+  [x]switch
