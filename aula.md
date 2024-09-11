@@ -67,3 +67,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
   [x] importação de modulos (require, CommonJS)
   [x] biblioteca 'inquirer' para criar prompts interativos
+
+  ## Programação assincronas e promessas
+
+  [x] uso de funções assíncronas (async/await)
